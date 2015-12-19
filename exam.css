@@ -8,6 +8,7 @@ rgb(38, 38, 38)}
 
 .nav {
   position: fixed;
+  z-index: 5;
   top: 0;
   background: rgb(26, 26, 26);
   width: 100%;
@@ -129,12 +130,24 @@ a {
 .featured p { margin-bottom: 0; }
 
 .featured .box-title {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
   margin: 0;
   padding: 7px;
   font-size: 16px;
   font-weight: bold;
   color: rgb(64, 64, 64);
   background-color: #f2f2f2;
+}
+
+.fa-chevron-right {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #e6e6e6;
+  padding: 12px;
 }
 
 .featured .heading {
