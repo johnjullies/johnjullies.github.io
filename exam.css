@@ -2,7 +2,7 @@ body  { font-family: 'Roboto', sans-serif; color:
 rgb(38, 38, 38)}
 
 .container {
-  width: 1100px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 
@@ -39,7 +39,8 @@ a {
   height: 60px
 }
 .menu-left {
-  margin-left: 25px;
+  margin-left: 60px;
+  margin-bottom: -10px;
 }
 .menu-left li {
   display: inline;
@@ -109,4 +110,57 @@ a {
 }
 .feature .links a:last-child:after {
   content: '';
+}
+
+.featured {
+  margin-top: 70px;
+}
+
+.featured .title {
+  padding-bottom: 15px;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.featured .title .stripes:after {
+  content: "";
+  display: block;
+  height: 1px;
+  position: absolute;
+  width: 1100px;
+}
+
+.featured a:hover {
+  color: rgb(204, 0, 0);
+}
+
+.featured p { margin-bottom: 0; }
+
+.featured .box-title {
+  margin: 0;
+  padding: 7px;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(64, 64, 64);
+  background-color: #f2f2f2;
+}
+
+.featured .heading {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.featured .second-related,
+.featured .third-related {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.featured .second-related {
+  border-top: 1px solid rgb(217, 217, 217);
+  border-bottom: 1px solid rgb(217, 217, 217);
+}
+
+.featured .column {
+  margin-bottom: 15px;
 }
