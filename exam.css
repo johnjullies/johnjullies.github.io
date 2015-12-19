@@ -141,6 +141,10 @@ a {
   background-color: #f2f2f2;
 }
 
+.featured .box-title:hover {
+  background-color: #e6e6e6;
+}
+
 .fa-chevron-right {
   display: block;
   position: absolute;
@@ -168,4 +172,42 @@ a {
 
 .featured .column {
   margin-bottom: 15px;
+}
+
+/* Media Queries
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to structure the use of media queries is to create the queries
+near the relevant code. For example, if you wanted to change the styles for buttons
+on small devices, paste the mobile query code up in the buttons section and style it
+there.
+*/
+
+
+/* Lower than 1110px */
+@media (max-width: 1110px) {
+  .menu-left, .menu-right {
+    display: none;
+  }
+  .nav .container {
+    margin: 0
+  }
+  .logo {
+    margin: 0;
+  }
+  .menu-mobile {
+    display: block;
+    position: relative;
+    top: 16px;
+    left: 75px;
+    font-size: 15px;
+  }
+  #menu-mobile {
+    cursor: pointer;
+    color: rgb(191, 191, 191);
+    float: right;
+  }
+  #menu-mobile:hover {
+    color: white;
+  }
 }
