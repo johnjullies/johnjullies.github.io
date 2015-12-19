@@ -31,7 +31,7 @@
 .container {
   /*position: relative;*/
   width: 100%;
-  max-width: 960px;
+  max-width: 1110px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
@@ -54,7 +54,7 @@
     width: 85%; }
   .column,
   .columns {
-    margin-left: 4%; }
+    margin-left: 2%; }
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
@@ -73,7 +73,7 @@
   .eleven.columns                 { width: 91.3333333333%; }
   .twelve.columns                 { width: 100%; margin-left: 0; }
 
-  .one-third.column               { width: 30.6666666667%; }
+  .one-third.column               { width: 31.6666666667%; }
   .two-thirds.column              { width: 65.3333333333%; }
 
   .one-half.column                { width: 48%; }
@@ -363,6 +363,8 @@ form {
   box-sizing: border-box; }
 .u-max-full-width {
   max-width: 100%;
+  width: 100%;
+  height: auto;
   box-sizing: border-box; }
 .u-pull-right {
   float: right; }

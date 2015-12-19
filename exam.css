@@ -186,6 +186,45 @@ a {
 .menu-hidden {
   display: none;
   background: rgb(26, 26, 26);
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 50px;
+  padding: 30px 0 50px;
+  overflow: auto;
+  height: 437px;
+}
+
+.menu-hidden .search {
+  width: 93%;
+  margin: 0;
+  padding: 0 7.2px;
+  font-size: 14.4px;
+  font-weight: 300;
+  border-radius: 0;
+}
+
+.menu-hidden .fa-search {
+  position: absolute;
+  padding: 1%;
+}
+
+.menu-hidden .international a {
+  font-size: 16px;
+  font-weight: normal;
+  padding-bottom: 16px;
+}
+
+.menu-hidden hr {
+  margin: 0;
+}
+
+.menu-hidden li {
+  list-style: none;
+  padding-left: 15px;
+  font-weight: 300;
+  font-size: 22px;
+  color: white;
 }
 
 /* Media Queries
