@@ -178,6 +178,16 @@ a {
   display: none;
 }
 
+#menu-mobile.fa-times,
+#menu-mobile.fa-times:hover {
+  color: rgb(204, 0, 0);
+}
+
+.menu-hidden {
+  display: none;
+  background: rgb(26, 26, 26);
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
