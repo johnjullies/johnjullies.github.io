@@ -1,0 +1,15 @@
+.contact-links {
+	li {
+		list-style-type: none;
+		display: inline-block;
+		padding: 10px;
+    	text-shadow: #999 9px 9px 9px;
+	}
+
+	a {
+		color: inherit;
+		&:hover {
+			color: #999;
+		}
+	}
+}

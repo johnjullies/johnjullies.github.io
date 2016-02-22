@@ -1,0 +1,1 @@
+/home/ayannah/ember-dojo/johnjullies/tmp/funnel-input_base_path-7w2BunRK.tmp/0/utils/handle-descriptor.js

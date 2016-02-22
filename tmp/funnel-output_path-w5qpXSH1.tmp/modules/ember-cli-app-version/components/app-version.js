@@ -1,0 +1,1 @@
+/home/ayannah/ember-dojo/johnjullies/tmp/funnel-input_base_path-O1Cjxoaj.tmp/0/components/app-version.js

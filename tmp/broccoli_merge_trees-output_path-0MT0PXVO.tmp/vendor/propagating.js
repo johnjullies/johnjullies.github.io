@@ -1,0 +1,1 @@
+/home/ayannah/ember-dojo/johnjullies/node_modules/ember-paper/vendor/propagating.js

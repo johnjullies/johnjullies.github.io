@@ -1,0 +1,1 @@
+/home/ayannah/ember-dojo/johnjullies/tmp/creator-output_path-oCoiLgNb.tmp/version.js

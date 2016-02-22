@@ -1,0 +1,1 @@
+/home/ayannah/ember-dojo/johnjullies/node_modules/ember-cli/lib/broccoli/testem.js
