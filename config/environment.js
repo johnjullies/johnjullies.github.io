@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'johnjullies.github.io',
+    modulePrefix: 'johnjullies',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
@@ -40,8 +40,6 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.locationType = 'hash';
-    ENV.baseURL = '/johnjullies/';
 
   }
 
