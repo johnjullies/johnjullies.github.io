@@ -1,1 +1,0 @@
-/home/ayannah/ember-dojo/johnjullies/tmp/broccoli_merge_trees-input_base_path-aE5CxoNv.tmp/2/johnjullies/tests/helpers/resolver.jshint.js

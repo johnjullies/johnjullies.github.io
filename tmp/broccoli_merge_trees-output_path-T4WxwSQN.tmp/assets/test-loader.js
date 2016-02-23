@@ -1,1 +1,0 @@
-/home/ayannah/ember-dojo/johnjullies/bower_components/ember-cli-test-loader/test-loader.js

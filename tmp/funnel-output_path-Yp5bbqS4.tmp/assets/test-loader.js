@@ -1,1 +1,0 @@
-/home/ayannah/ember-dojo/johnjullies/tmp/funnel-input_base_path-pj9t7Jqd.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

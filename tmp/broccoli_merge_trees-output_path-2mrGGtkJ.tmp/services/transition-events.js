@@ -1,1 +1,0 @@
-/home/ayannah/johnjullies.github.io/node_modules/ember-paper/node_modules/ember-css-transitions/app/services/transition-events.js

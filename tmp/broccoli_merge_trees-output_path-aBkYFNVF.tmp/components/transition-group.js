@@ -1,1 +1,0 @@
-/home/ayannah/ember-dojo/johnjullies/node_modules/ember-paper/node_modules/ember-css-transitions/app/components/transition-group.js

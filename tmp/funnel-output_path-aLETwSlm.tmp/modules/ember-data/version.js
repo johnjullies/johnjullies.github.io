@@ -1,1 +1,0 @@
-/home/ayannah/johnjullies.github.io/tmp/creator-output_path-XYnZQtVM.tmp/version.js

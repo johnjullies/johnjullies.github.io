@@ -1,1 +1,0 @@
-/home/ayannah/ember-dojo/johnjullies/tmp/funnel-input_base_path-1Nhb9eRG.tmp/0/router.js
