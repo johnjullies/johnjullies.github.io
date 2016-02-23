@@ -1,0 +1,1 @@
+/home/ayannah/johnjullies.github.io/bower_components/ember-cli-test-loader/test-loader.js
