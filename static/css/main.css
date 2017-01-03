@@ -1,0 +1,60 @@
+body {
+    background: url('https://source.unsplash.com/category/technology') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.background-fade {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    background: rgba(255, 255, 255, .5);
+}
+
+.div-content {
+    margin-top: 4in;
+    text-align: center;
+    color: #333;
+    text-shadow: 1px 2px 2px #999;
+}
+
+.heading {
+	margin: 0;
+    padding-left: 2px;
+    font-size: 5em;
+}
+
+.normal {
+	margin: 0 auto;
+	max-width: 500px;
+    font-size: 2.5em;
+}
+
+.heading,
+.normal {
+    font-family: 'Viga', sans-serif;
+}
+
+.links {
+    padding: 0;
+    list-style: none;
+}
+
+.links li {
+    display: inline;
+}
+
+.links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.links .fa {
+    padding: 5px;
+    font-size: 30px;
+}
