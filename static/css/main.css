@@ -24,19 +24,20 @@ body {
 }
 
 .heading {
+	margin: 0;
     padding-left: 2px;
-    margin-bottom: 0;
-    font-family: 'Viga', sans-serif;
-    font-size: 3em;
-.normal {
+    font-size: 5em;
 }
 
-.subtitle {
-    margin: 0 0 25px 0;
+.normal {
+	margin: 0 auto;
+	max-width: 500px;
+    font-size: 2.5em;
+}
+
 .heading,
 .normal {
     font-family: 'Viga', sans-serif;
-    font-size: 1.5em;
 }
 
 .links {
@@ -55,5 +56,5 @@ body {
 
 .links .fa {
     padding: 5px;
-    font-size: 25px;
+    font-size: 30px;
 }
