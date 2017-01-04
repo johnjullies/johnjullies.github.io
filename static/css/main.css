@@ -26,13 +26,13 @@ body {
 .heading {
     margin: 0;
     padding-left: 2px;
-    font-size: 5em;
+    font-size: 2.8em;
 }
 
 .normal {
     margin: 0 auto;
     max-width: 500px;
-    font-size: 2.5em;
+    font-size: 2.2em;
 }
 
 .heading,
