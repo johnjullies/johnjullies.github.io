@@ -24,14 +24,14 @@ body {
 }
 
 .heading {
-	margin: 0;
+    margin: 0;
     padding-left: 2px;
     font-size: 5em;
 }
 
 .normal {
-	margin: 0 auto;
-	max-width: 500px;
+    margin: 0 auto;
+    max-width: 500px;
     font-size: 2.5em;
 }
 
