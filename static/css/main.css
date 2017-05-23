@@ -17,8 +17,8 @@ body {
 }
 
 .div-content {
-    margin-top: 4in;
-    text-align: center;
+    margin-top: 2in;
+    margin-left: 1in;
     color: #333;
     text-shadow: 1px 2px 2px #999;
 }
