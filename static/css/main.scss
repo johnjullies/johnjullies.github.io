@@ -71,11 +71,13 @@ a {
     font-weight: 400;
 }
 
-.fab,
-.fas {
+.fab {
     vertical-align: middle;
     width: 2.063rem;
     font-size: 1.33rem;
+}
+.fa-envelope {
+    margin-right: 1em;
 }
 
 .links.fa-ul {
