@@ -1,4 +1,4 @@
-$gray: #111111;
+$gray: #e9ebee;
 $black: #000001;
 $white: #fefefe;
 
@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    padding-top: 4rem;
+    padding: 4rem 0;
     background-color: $gray;
 }
 
@@ -19,6 +19,7 @@ body {
     padding-left: 1.375rem;
     max-width: 960px;
     background-color: $black;
+    box-shadow: 0 8px 21px 0 $black;
     color: $white;
 }
 
