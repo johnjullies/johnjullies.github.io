@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
     padding-top: 2.375rem;
     padding-bottom: 2.5rem;
-    padding-left: 1.375rem;
+    padding-left: 3rem;
     max-width: 960px;
     background-color: $black;
     box-shadow: 0 8px 21px 0 $black;
@@ -38,6 +38,7 @@ body {
     font-size: 2.8em;
 }
 .section-content .subheading {
+    margin-bottom: 1in;
     font-size: 1.6em;
 }
 .section-content .title {
@@ -76,9 +77,6 @@ a {
     vertical-align: middle;
     width: 2.063rem;
     font-size: 1.33rem;
-}
-.fa-envelope {
-    margin-right: 1em;
 }
 
 .links.fa-ul {
